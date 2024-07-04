@@ -1,3 +1,6 @@
+//2 - TO ADD THE SNIPPETS ON A NEW CHROME INSTANCE
+//In the new chrome open the inspector,  then open again from there press ctr+shift+I
+
 let importSnippets = [
     {
         "name": "CLS",
